@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "8d440b97-b738-4a0d-bc7a-124ad0fa6633",
+      "name": "Ella Kirlin"
+    },
+    {
+      "id": "5bde78c7-0ff1-4911-9baa-552c27f5d00e",
+      "name": "Cassandra Legros"
+    },
+    {
+      "id": "1b5f04be-29c7-4bea-b5af-d0be550bbb99",
+      "name": "Sheri Hackett"
+    },
+    {
+      "id": "71a310aa-fe48-443c-b377-f48c113be85a",
+      "name": "Doreen Jacobi"
+    },
+    {
+      "id": "8b1a4e4f-8780-405e-93ca-3fb58fb41d51",
+      "name": "Josephine Moore"
+    }
+  ],
+  "albums": [
+    {
+      "id": "5c6c",
+      "userId": "8d440b97-b738-4a0d-bc7a-124ad0fa6633",
+      "title": "Modern Steel Table"
+    },
+    {
+      "id": "d35f",
+      "userId": "8d440b97-b738-4a0d-bc7a-124ad0fa6633",
+      "title": "Oriental Frozen Hat"
+    },
+    {
+      "id": "cff3",
+      "userId": "8d440b97-b738-4a0d-bc7a-124ad0fa6633",
+      "title": "Handmade Soft Towels"
+    },
+    {
+      "id": "4b66",
+      "userId": "5bde78c7-0ff1-4911-9baa-552c27f5d00e",
+      "title": "Oriental Fresh Gloves"
+    }
+  ],
+  "photos": [
+    {
+      "id": "1c45",
+      "albumId": "4b66",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7076602800242688"
+    },
+    {
+      "id": "d479",
+      "albumId": "d35f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5107348236402688"
+    },
+    {
+      "id": "5df7",
+      "albumId": "5c6c",
+      "url": "https://picsum.photos/seed/yZuKuCH5Q/640/480"
+    },
+    {
+      "id": "fdb9",
+      "albumId": "5c6c",
+      "url": "https://loremflickr.com/640/480?lock=8345251276128256"
+    },
+    {
+      "id": "06b0",
+      "albumId": "5c6c",
+      "url": "https://loremflickr.com/640/480?lock=2932930676523008"
+    },
+    {
+      "id": "7750",
+      "albumId": "5c6c",
+      "url": "https://picsum.photos/seed/ZTFeC9f/640/480"
+    },
+    {
+      "id": "3d03",
+      "albumId": "5c6c",
+      "url": "https://loremflickr.com/640/480?lock=8831508651442176"
+    },
+    {
+      "id": "4a86",
+      "albumId": "d35f",
+      "url": "https://picsum.photos/seed/eHmReLlfy/640/480"
+    },
+    {
+      "id": "b2e4",
+      "albumId": "d35f",
+      "url": "https://picsum.photos/seed/CMIfE/640/480"
+    },
+    {
+      "id": "b47a",
+      "albumId": "d35f",
+      "url": "https://loremflickr.com/640/480?lock=1909278350770176"
+    },
+    {
+      "id": "07c9",
+      "albumId": "d35f",
+      "url": "https://loremflickr.com/640/480?lock=3462049327742976"
+    },
+    {
+      "id": "cb4e",
+      "albumId": "cff3",
+      "url": "https://picsum.photos/seed/fQ8OucD/640/480"
+    },
+    {
+      "id": "91f0",
+      "albumId": "cff3",
+      "url": "https://loremflickr.com/640/480?lock=4478731928207360"
+    }
+  ]
+}
